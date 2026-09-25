@@ -9,10 +9,10 @@ I am a **Management Information Systems (MIS)** professional and an **active You
 ### 🚀 Skills & Technologies
 
 #### 🎬 Video Production & Content Creation
-![YouTube](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
+![CSS3](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
 
 #### 🌐 Web Development & Management
-![HTML5](https://shields.io) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://shields.io) ![jQuery](https://shields.io) ![WordPress](https://shields.io) ![cPanel](https://shields.io)
+![CSS3](https://shields.io) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://shields.io) ![jQuery](https://shields.io) ![WordPress](https://shields.io) ![cPanel](https://shields.io)
 
 #### 📈 Data Analytics & SEO
 ![Microsoft SQL Server](https://shields.io) ![Power BI](https://shields.io) ![Microsoft Excel](https://shields.io) ![SEO](https://shields.io)
