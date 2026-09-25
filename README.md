@@ -49,6 +49,6 @@ Through my internships, certifications, and diverse background (ranging from ser
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/tugkanzenger/)
-[![YouTube](https://shields.io)](https://www.youtube.com/channel/UCkekKo0LsxkPPQbV8MJpoOA?sub_confirmation=1)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![YouTube](https://shields.io)](https://youtube.com)
 [![Email](https://shields.io)](mailto:tugkan19971997@gmail.com)
