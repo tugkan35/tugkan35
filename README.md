@@ -2,7 +2,8 @@
 
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
-I am a **Frontend Developer & Content Creator** based in **Izmir, Turkey**.
+I am a **Frontend Developer & Content Creator** passionate about **web development, digital platforms, and content creation**.
+
 
 My English level is **B2 (Upper-Intermediate)**.
 
