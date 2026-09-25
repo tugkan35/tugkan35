@@ -8,11 +8,17 @@ I am a **Management Information Systems (MIS)** professional and an **active You
 
 ### 🚀 Skills & Technologies
 
-#### 🎬 Video Production & Content Creation
-![CSS3](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
+#### 🌐 Web & Front-End Development
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![SCSS](https://shields.io) ![SASS](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Next JS](https://shields.io) ![Three.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Vue.js](https://shields.io) ![jQuery](https://shields.io) ![Bootstrap](https://shields.io)
 
-#### 🌐 Web Development & Management
-![CSS3](https://shields.io) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://shields.io) ![jQuery](https://shields.io) ![WordPress](https://shields.io) ![cPanel](https://shields.io)
+#### ⚙️ Site Management & CMS
+![WordPress](https://shields.io) ![Strapi](https://shields.io) ![cPanel](https://shields.io)
+
+#### 🎬 Video Production & Content Creation
+![YouTube](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
+
+#### 🎨 UI/UX & Graphic Design
+![Figma](https://shields.io) ![Adobe XD](https://shields.io) ![Adobe Illustrator](https://shields.io) ![Canva](https://shields.io)
 
 #### 📈 Data Analytics & SEO
 ![Microsoft SQL Server](https://shields.io) ![Power BI](https://shields.io) ![Microsoft Excel](https://shields.io) ![SEO](https://shields.io)
