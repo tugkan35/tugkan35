@@ -1,3 +1,5 @@
+# About Me
+
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
 I am a **Management Information Systems (MIS) graduate** and a **Frontend Developer & YouTube Content Creator** based in Izmir, Turkey.
@@ -6,7 +8,9 @@ I graduated from the **Information Management Associate Degree Program at Atatü
 
 I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
-I also have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
+I also use **AI tools** as part of my development workflow to research solutions, troubleshoot technical issues, improve my code, and learn new technologies more efficiently.
+
+In addition, I have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
 
 I enjoy learning new technologies, improving my development skills, and creating modern digital experiences.
 
