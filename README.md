@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
@@ -44,3 +44,11 @@ I am a **Management Information Systems (MIS)** professional and an **active You
 ### 🎯 Career Goal
 
 Through my internships, certifications, and diverse background (ranging from service industry discipline like Barista skills to high-level data analysis and digital content creation), I aim to continuously improve myself and bring tangible value to innovative companies.
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/tugkanzenger/)
+[![YouTube](https://shields.io)](https://www.youtube.com/channel/UCkekKo0LsxkPPQbV8MJpoOA?sub_confirmation=1)
+[![Email](https://shields.io)](mailto:tugkan19971997@gmail.com)
