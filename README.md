@@ -4,13 +4,15 @@ I am a **Frontend Developer & Content Creator** based in Izmir, Turkey.
 
 I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
-I also have experience with **Node.js**, where I use AI tools as part of my development workflow to research solutions, troubleshoot technical issues, understand backend concepts, and improve my code.
+I also have experience with **Node.js**, **Microsoft SQL Server, and MySQL**, working with backend technologies, structured data, and database-related tasks.
 
-In addition, I have experience with **Microsoft SQL Server** for data analysis and working with structured data.
+I use **AI tools** as part of my development workflow to research solutions, troubleshoot technical issues, improve my code, understand backend concepts, and learn new technologies more efficiently.
 
-I also have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
+I also have **basic-level knowledge of Python**, which I use to understand programming concepts and work with simple scripts and programming tasks.
 
-I enjoy learning new technologies, improving my development skills, and creating practical digital solutions.
+In addition, I have experience in **video editing and visual content creation** using **Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva**.
+
+I enjoy learning new technologies, improving my development skills, and creating practical, modern, and user-friendly digital experiences.
 
 ---
 
@@ -27,12 +29,14 @@ I also use my experience in video editing and visual design to create and edit d
 * Frontend development and responsive web interfaces
 * HTML, CSS, JavaScript, jQuery, and Bootstrap
 * Node.js and backend development
-* AI-assisted development and problem solving
-* Using AI tools to learn, research, and improve code
+* Microsoft SQL Server and MySQL
+* Basic Python programming
+* AI-assisted web development
+* Using AI tools for coding, research, and problem solving
 * UI/UX and modern interface design
-* SQL Server and data analysis
 * Creating practical and user-friendly web projects
 * Video editing and digital content creation
+* Learning new technologies and improving my development skills
 
 ---
 
@@ -50,27 +54,31 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-
 ---
 
-## 🛠️ The Stack
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### ⚙️ Backend & Data
+### ⚙️ Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🐍 Programming
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🎬 Video & Design
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
