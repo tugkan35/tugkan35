@@ -9,23 +9,13 @@ I am a **Management Information Systems (MIS)** professional and an **active You
 ### 🚀 Skills & Technologies
 
 #### 🎬 Video Production & Content Creation
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![YouTube](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
 
 #### 🌐 Web Development & Management
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://shields.io) ![jQuery](https://shields.io) ![WordPress](https://shields.io) ![cPanel](https://shields.io)
 
 #### 📈 Data Analytics & SEO
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![Microsoft SQL Server](https://shields.io) ![Power BI](https://shields.io) ![Microsoft Excel](https://shields.io) ![SEO](https://shields.io)
 
 ---
 
@@ -46,5 +36,4 @@ Through my internships, certifications, and diverse background (ranging from ser
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![YouTube](https://shields.io)](https://youtube.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![YouTube](https://shields.io)](https://youtube.com) [![Email](https://shields.io)](mailto:tugkan19971997@gmail.com)
