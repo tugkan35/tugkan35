@@ -1,10 +1,6 @@
-# About Me
-
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
-I am a **Management Information Systems (MIS) graduate** and a **Frontend Developer & YouTube Content Creator** based in Izmir, Turkey.
-
-I graduated from the **Information Management Associate Degree Program at Atatürk University in 2022**. I then transferred to the **Management Information Systems Undergraduate Program at Anadolu University** through the **Vertical Transfer Exam (DGS)**.
+I am a **Frontend Developer & Content Creator** based in Izmir, Turkey.
 
 I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
@@ -16,7 +12,30 @@ I enjoy learning new technologies, improving my development skills, and creating
 
 ---
 
+## 🎥 Content Creation
+
+I have been creating content on **YouTube since 2018**, sharing a variety of content including **gaming, vlogs, and web-related content**.
+
+I also use my experience in video editing and visual design to create and edit digital content. Through **YouTube, LinkedIn, and GitHub**, I aim to share my projects, document my learning journey, and connect with people interested in technology and digital content creation.
+
+---
+
+## 💡 I'm Especially Interested In
+
+* Frontend development and responsive web interfaces
+* HTML, CSS, JavaScript, jQuery, and Bootstrap
+* AI-assisted web development
+* Using AI tools for coding, research, and problem solving
+* UI/UX and modern interface design
+* Creating practical and user-friendly web projects
+* Video editing and digital content creation
+* Learning new technologies and improving my development skills
+
+---
+
 ## 📫 Connect With Me
+
+If you would like to connect, collaborate, or explore my projects, feel free to reach out through the links below.
 
 📧 **Email:** [tugkan19971997@gmail.com](mailto:tugkan19971997@gmail.com)
 
