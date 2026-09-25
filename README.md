@@ -76,6 +76,16 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
+### 🌐 Web & Hosting
+
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
+
+### 📊 Data Analysis
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
 ### ⚙️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -84,12 +94,8 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 
 > **AI-Assisted Development:** I use AI tools to support my development workflow with **Node.js, Microsoft SQL Server, MySQL, and jQuery**, including research, debugging, troubleshooting, code improvement, SQL queries, and understanding technical concepts.
 
-### 📊 Data Analysis
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black)
+### 🐍 Programming
 
-### 🌐 Web & Hosting
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
 
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
