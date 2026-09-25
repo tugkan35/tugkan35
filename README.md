@@ -46,9 +46,8 @@ I also use my experience in video editing and visual design to create and edit d
 * Video editing and digital content creation
 * SEO and content management
 * Data analysis with Microsoft Excel, SQL Server, and Power BI
-* Node.js and backend development
 * Microsoft SQL Server and MySQL
-* AI-assisted development with Node.js, SQL Server, MySQL, and jQuery
+* AI-assisted development with Node.js
 * Basic Python programming
 * Learning new technologies and improving my development skills
 
