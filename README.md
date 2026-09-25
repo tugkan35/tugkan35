@@ -36,18 +36,18 @@ I also use my experience in video editing and visual design to create and edit d
 
 * Frontend development and responsive web interfaces
 * HTML, CSS, JavaScript, jQuery, and Bootstrap
+* UI/UX and modern interface design
+* WordPress website development and management
+* cPanel and web hosting environments
+* Using AI tools for coding, research, debugging, and problem solving
+* Creating practical and user-friendly web projects
+* Video editing and digital content creation
+* SEO and content management
+* Data analysis with Microsoft Excel, SQL Server, and Power BI
 * Node.js and backend development
 * Microsoft SQL Server and MySQL
 * AI-assisted development with Node.js, SQL Server, MySQL, and jQuery
-* Using AI tools for coding, research, debugging, and problem solving
-* Data analysis with Microsoft Excel, SQL Server, and Power BI
-* WordPress website development and management
-* cPanel and web hosting environments
-* SEO and content management
 * Basic Python programming
-* UI/UX and modern interface design
-* Creating practical and user-friendly web projects
-* Video editing and digital content creation
 * Learning new technologies and improving my development skills
 
 ---
