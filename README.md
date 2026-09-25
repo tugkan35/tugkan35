@@ -37,11 +37,16 @@ I also use my experience in video editing and visual design to create and edit d
 
 If you would like to connect, collaborate, or explore my projects, feel free to reach out through the links below.
 
-📧 **Email:** [tugkan19971997@gmail.com](mailto:tugkan19971997@gmail.com)
+<a href="mailto:tugkan19971997@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.youtube.com/@TugkanZenger01">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.linkedin.com/in/tugkanzenger/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-▶️ **YouTube:** https://www.youtube.com/@TugkanZenger01
-
-💼 **LinkedIn:** https://www.linkedin.com/in/tugkanzenger/
 
 ---
 
