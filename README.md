@@ -78,6 +78,13 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
+### 🎬 Video & Design
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
+
 ### 🌐 Web & Hosting
 
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
@@ -99,10 +106,3 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🎬 Video & Design
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
