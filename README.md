@@ -30,11 +30,12 @@ I also use my experience in video editing and visual design to create and edit d
 * HTML, CSS, JavaScript, jQuery, and Bootstrap
 * Node.js and backend development
 * Microsoft SQL Server and MySQL
+* AI-assisted backend and database development
+* Using AI tools for SQL queries, data analysis, debugging, and problem solving
 * WordPress website development and management
 * cPanel and web hosting environments
 * Basic Python programming
 * AI-assisted web development
-* Using AI tools for coding, research, and problem solving
 * UI/UX and modern interface design
 * Creating practical and user-friendly web projects
 * Video editing and digital content creation
@@ -68,24 +69,26 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### ⚙️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🌐 Web & Hosting
-
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
-
-### 🐍 Programming
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-
 ### 🎬 Video & Design
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
+
+### 🌐 Web & Hosting
+
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+> **AI-Assisted Development:** I use AI tools to support backend and database development, including **SQL query development, data analysis, debugging, troubleshooting, code improvement, and researching technical solutions**.
+
+### 🐍 Programming
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
