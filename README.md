@@ -1,51 +1,40 @@
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
-### About Me
-I am a **Management Information Systems (MIS)** professional, digital creator, and data analyst focused on building impactful web experiences, analyzing data structures, and producing high-quality digital content.
+I am a **Management Information Systems (MIS) graduate** and a **Frontend Developer & YouTube Content Creator** based in Izmir, Turkey.
 
-My expertise sits right at the intersection of data, development, and design. On the technical side, I build and manage websites using HTML5, CSS3, JavaScript (jQuery), Bootstrap, WordPress, and cPanel, while leveraging MS SQL Server, Power BI, and Advanced Excel to unlock data-driven insights. 
+I graduated from the **Information Management Associate Degree Program at Atatürk University in 2022**. I then transferred to the **Management Information Systems Undergraduate Program at Anadolu University** through the **Vertical Transfer Exam (DGS)**.
 
-I am also a passionate and **active YouTube Content Creator since 2018**, where I utilize Adobe Premiere Pro, After Effects, and Photoshop to produce engaging visual experiences. Through my technical skills and digital content, I aim to create useful, structured, and visually strong digital products.
+I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
-I am especially interested in:
-* **Data Analytics & Visualization:** Driving decisions through MS SQL and Power BI workflows.
-* **Web Development & Management:** Creating clean UIs, deploying WordPress sites, and managing cPanel environments.
-* **Video Production & Motion Graphics:** Editing and storytelling through advanced Adobe workflows.
-* **SEO & Content Management:** Optimizing digital visibility and managing web assets effectively.
+I also have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
 
-Beyond my technical background, I hold a strong foundation from my early training—ranging from vocational maritime and informatics education to specialized skills like Barista training. I see information management not just as data pipelines, but as a multi-disciplinary medium to add real value.
+I enjoy learning new technologies, improving my development skills, and creating modern digital experiences.
 
 ---
 
-### 🎓 Education
+## 📫 Connect With Me
 
-* **Bachelor's Degree:** Anadolu University - Management Information Systems
-* **Associate Degree:** Atatürk University - Information Management (Graduated: 2022)
-* **High School:** Güzelbahçe İ.M.K.B. Vocational and Technical Anatolian High School
-  * *Erasmus+ Project (2015):* Participated in a European educational trip to Spain via A.E.L.V. during the 10th grade.
+📧 **Email:** [tugkan19971997@gmail.com](mailto:tugkan19971997@gmail.com)
 
----
+▶️ **YouTube:** https://www.youtube.com/@TugkanZenger01
 
-### 🎯 Career Goal
-
-Through my internships, certifications, and diverse background, I aim to continuously challenge myself, improve my skills in modern tech stacks, and bring tangible, data-driven, and creative value to innovative companies.
+💼 **LinkedIn:** https://www.linkedin.com/in/tugkanzenger/
 
 ---
 
-### 🔗 Socials
+## 🛠️ The Stack
 
-LinkedIn: https://linkedin.com  
-YouTube: https://youtube.com  
-Email: tugkan19971997@gmail.com  
+### 🌐 Frontend Development
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Tech Stack
+### 🎬 Video & Design
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![SCSS](https://shields.io) ![SASS](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Next JS](https://shields.io) ![Three.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Vue.js](https://shields.io) ![jQuery](https://shields.io) ![Bootstrap](https://shields.io)
-
-![WordPress](https://shields.io) ![Strapi](https://shields.io) ![cPanel](https://shields.io)
-
-![YouTube](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Figma](https://shields.io) ![Adobe XD](https://shields.io) ![Adobe Illustrator](https://shields.io) ![Canva](https://shields.io)
-
-![Microsoft SQL Server](https://shields.io) ![Power BI](https://shields.io) ![Microsoft Excel](https://shields.io) ![SEO](https://shields.io)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
