@@ -6,11 +6,12 @@ I am a **Frontend Developer & Content Creator** based in **Izmir, Turkey**.
 
 My English level is **B2 (Upper-Intermediate)**.
 
-I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
+I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, Bootstrap and jQuery**.
 
-I also have experience with **Node.js, Microsoft SQL Server, MySQL, WordPress, and cPanel**, working with backend technologies, databases, websites, and hosting environments.
+I also have experience with **Node.js, MySQL, WordPress, and cPanel**, working with backend technologies, databases, websites, and hosting environments.
 
-As part of my development workflow, I use **AI tools** to research solutions, troubleshoot technical issues, improve my code, and better understand technologies such as **Node.js, Microsoft SQL Server, MySQL, and jQuery**.
+As part of my development workflow, I use **AI tools** to research solutions, troubleshoot technical issues, improve my code, and better understand technologies such as **HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Microsoft SQL Server, and MySQL**.
+
 
 Since **2020**, I have been working with **cPanel, WordPress website setup and management, SEO settings, and content management**.
 
