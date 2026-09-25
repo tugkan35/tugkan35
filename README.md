@@ -9,24 +9,23 @@ I am a **Management Information Systems (MIS)** professional and an **active You
 ### 🚀 Skills & Technologies
 
 #### 🎬 Video Production & Content Creation
-<img src="https://shields.io" alt="YouTube" />
-<img src="https://shields.io" alt="Adobe Premiere Pro" />
-<img src="https://shields.io" alt="Adobe After Effects" />
-<img src="https://shields.io" alt="Adobe Photoshop" />
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
 #### 🌐 Web Development & Management
-<img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="CSS3" />
-<img src="https://shields.io" alt="Bootstrap" />
-<img src="https://shields.io" alt="jQuery" />
-<img src="https://shields.io" alt="WordPress" />
-<img src="https://shields.io" alt="cPanel" />
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
 #### 📈 Data Analytics & SEO
-<img src="https://shields.io" alt="Microsoft SQL Server" />
-<img src="https://shields.io" alt="Power BI" />
-<img src="https://shields.io" alt="Microsoft Excel" />
-<img src="https://shields.io" alt="SEO" />
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
 ---
 
@@ -47,12 +46,5 @@ Through my internships, certifications, and diverse background (ranging from ser
 
 ### 📬 Connect with Me
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
-<a href="https://youtube.com" target="_blank">
-  <img src="https://shields.io" alt="YouTube" />
-</a>
-<a href="mailto:tugkan19971997@gmail.com">
-  <img src="https://shields.io" alt="Email" />
-</a>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![YouTube](https://shields.io)](https://youtube.com)
