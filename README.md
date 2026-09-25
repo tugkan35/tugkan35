@@ -4,11 +4,13 @@ I am a **Frontend Developer & Content Creator** based in Izmir, Turkey.
 
 I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
-I also use **AI tools** as part of my development workflow to research solutions, troubleshoot technical issues, improve my code, and learn new technologies more efficiently.
+I also have experience with **Node.js**, where I use AI tools as part of my development workflow to research solutions, troubleshoot technical issues, understand backend concepts, and improve my code.
 
-In addition, I have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
+In addition, I have experience with **Microsoft SQL Server** for data analysis and working with structured data.
 
-I enjoy learning new technologies, improving my development skills, and creating modern digital experiences.
+I also have experience in **video editing and visual content creation** using Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, and Canva.
+
+I enjoy learning new technologies, improving my development skills, and creating practical digital solutions.
 
 ---
 
@@ -24,12 +26,13 @@ I also use my experience in video editing and visual design to create and edit d
 
 * Frontend development and responsive web interfaces
 * HTML, CSS, JavaScript, jQuery, and Bootstrap
-* AI-assisted web development
-* Using AI tools for coding, research, and problem solving
+* Node.js and backend development
+* AI-assisted development and problem solving
+* Using AI tools to learn, research, and improve code
 * UI/UX and modern interface design
+* SQL Server and data analysis
 * Creating practical and user-friendly web projects
 * Video editing and digital content creation
-* Learning new technologies and improving my development skills
 
 ---
 
@@ -59,6 +62,11 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### ⚙️ Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ### 🎬 Video & Design
 
