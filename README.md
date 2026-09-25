@@ -1,5 +1,3 @@
-## About Me
-
 # Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
 I am a **Frontend Developer & Content Creator** based in **Izmir, Turkey**.
@@ -93,4 +91,5 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 
 ### 🌐 Web & Hosting
 
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logo)
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
