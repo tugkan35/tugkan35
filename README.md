@@ -1,16 +1,46 @@
-## Hi there 👋
+## About Me
 
-<!--
-**tugkan35/tugkan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Yaşar Tuğkan Zenger! 👋
 
-Here are some ideas to get you started:
+I am a **Management Information Systems (MIS)** professional and an **active YouTube Content Creator since 2018**, based in Izmir, Turkey. I combine my academic background with hands-on expertise in video production, web development, and data analytics to build impactful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **English Level:** B2 (Upper-Intermediate)
+
+---
+
+### 🚀 Skills & Technologies
+
+#### 🎬 Video Production & Content Creation
+![YouTube](https://shields.io)
+![Adobe Premiere Pro](https://shields.io)
+![Adobe After Effects](https://shields.io)
+![Adobe Photoshop](https://shields.io)
+
+#### 🌐 Web Development & Management
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Bootstrap](https://shields.io)
+![jQuery](https://shields.io)
+![WordPress](https://shields.io)
+![cPanel](https://shields.io)
+
+#### 📈 Data Analytics & SEO
+![Microsoft SQL Server](https://shields.io)
+![Power Bi](https://shields.io)
+![Microsoft Excel](https://shields.io)
+![SEO](https://shields.io)
+
+---
+
+### 🎓 Education
+
+* **Bachelor's Degree:** Anadolu University - Management Information Systems
+* **Associate Degree:** Atatürk University - Information Management (Graduated: 2022)
+* **High School:** Güzelbahçe İ.M.K.B. Vocational and Technical Anatolian High School
+  * *Erasmus+ Project (2015):* Participated in a European educational trip to Spain via A.E.L.V. during the 10th grade.
+
+---
+
+### 🎯 Career Goal
+
+Through my internships, certifications, and diverse background (ranging from service industry discipline like Barista skills to high-level data analysis and digital content creation), I aim to continuously improve myself and bring tangible value to innovative companies.
