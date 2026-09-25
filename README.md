@@ -96,8 +96,13 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 
 > **AI-Assisted Development:** I use AI tools to support my development workflow with **Node.js, Microsoft SQL Server, MySQL, and jQuery**, including research, debugging, troubleshooting, code improvement, SQL queries, and understanding technical concepts.
 
-
 ### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
 
+### 🎬 Video & Design
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge\&logo=canva\&logoColor=white)
