@@ -1,45 +1,18 @@
-# Hi there, I'm Yaşar Tuğkan Zenger! 👋
+## Tech Stack
 
-I am a **Management Information Systems (MIS)** professional and an **active YouTube Content Creator since 2018**, based in Izmir, Turkey. I combine my academic background with hands-on expertise in video production, web development, and data analytics to build impactful digital solutions.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
-💬 **English Level:** B2 (Upper-Intermediate)
-
----
-
-### 🚀 Skills & Technologies
-
-#### 🌐 Web & Front-End Development
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![SCSS](https://shields.io) ![SASS](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Next JS](https://shields.io) ![Three.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Vue.js](https://shields.io) ![jQuery](https://shields.io) ![Bootstrap](https://shields.io)
-
-#### ⚙️ Site Management & CMS
-![WordPress](https://shields.io) ![Strapi](https://shields.io) ![cPanel](https://shields.io)
-
-#### 🎬 Video Production & Content Creation
-![YouTube](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Photoshop](https://shields.io)
-
-#### 🎨 UI/UX & Graphic Design
-![Figma](https://shields.io) ![Adobe XD](https://shields.io) ![Adobe Illustrator](https://shields.io) ![Canva](https://shields.io)
-
-#### 📈 Data Analytics & SEO
-![Microsoft SQL Server](https://shields.io) ![Power BI](https://shields.io) ![Microsoft Excel](https://shields.io) ![SEO](https://shields.io)
-
----
-
-### 🎓 Education
-
-* **Bachelor's Degree:** Anadolu University - Management Information Systems
-* **Associate Degree:** Atatürk University - Information Management (Graduated: 2022)
-* **High School:** Güzelbahçe İ.M.K.B. Vocational and Technical Anatolian High School
-  * *Erasmus+ Project (2015):* Participated in a European educational trip to Spain via A.E.L.V. during the 10th grade.
-
----
-
-### 🎯 Career Goal
-
-Through my internships, certifications, and diverse background (ranging from service industry discipline like Barista skills to high-level data analysis and digital content creation), I aim to continuously improve myself and bring tangible value to innovative companies.
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![YouTube](https://shields.io)](https://youtube.com) [![Email](https://shields.io)](mailto:tugkan19971997@gmail.com)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
