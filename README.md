@@ -4,7 +4,7 @@ I am a **Frontend Developer & Content Creator** based in Izmir, Turkey.
 
 I focus on **frontend development and user interface design**, building responsive and user-friendly web interfaces using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.
 
-I also have experience with **Node.js**, **Microsoft SQL Server, and MySQL**, working with backend technologies, structured data, and database-related tasks.
+I also have experience with **Node.js**, **Microsoft SQL Server, MySQL, WordPress, and cPanel**, working with backend technologies, databases, websites, and hosting environments.
 
 I use **AI tools** as part of my development workflow to research solutions, troubleshoot technical issues, improve my code, understand backend concepts, and learn new technologies more efficiently.
 
@@ -30,6 +30,8 @@ I also use my experience in video editing and visual design to create and edit d
 * HTML, CSS, JavaScript, jQuery, and Bootstrap
 * Node.js and backend development
 * Microsoft SQL Server and MySQL
+* WordPress website development and management
+* cPanel and web hosting environments
 * Basic Python programming
 * AI-assisted web development
 * Using AI tools for coding, research, and problem solving
@@ -71,6 +73,11 @@ If you would like to connect, collaborate, or explore my projects, feel free to 
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🌐 Web & Hosting
+
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge\&logo=cpanel\&logoColor=white)
 
 ### 🐍 Programming
 
